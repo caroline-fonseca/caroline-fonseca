@@ -1,5 +1,11 @@
 <h1 align="center"> Hello There </h1>
 
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=caroline-fonseca&count_private=true&show_icons=true&theme=radicalk" alt="Carol github status" width="450" /> 
+  <!--&nbsp; &nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-fonseca&layout=compact&exclude_repo=exposure-fusion&theme=vue-dark" alt="Top Languages" width="auto"/></p>
+<br>-->
+
 <!--
 **caroline-fonseca/caroline-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
