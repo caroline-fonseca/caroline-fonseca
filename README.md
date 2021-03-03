@@ -6,10 +6,10 @@
 import Dev from 'caroline-fonseca';
 
 class AboutMe extends Dev {
-  nome     = 'Caroline Santos Fonseca';
+  name     = 'Caroline Santos Fonseca';
   area    = 'Software Development';
-  trabalho  = 'Inatel Competence Center';
-  local = 'Santa Rita do Sapucaí - MG';
+  work  = 'Inatel Competence Center';
+  location = 'Santa Rita do Sapucaí - MG';
 }
 
 ```
