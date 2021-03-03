@@ -35,16 +35,16 @@ class AboutMe extends Dev {
 </p>
 <h1 align = 'center'> You can find me </h1>
 <p align = "center">
-  <a href="#" alt="Gmail">
+  <a href="caroline.fonseca@inatel.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=caroline.fonseca@inatel.br" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/carolinefons/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinefons/" /></a>
 
-  <a href="#" alt="github">
+  <a href="github.com/carolfons" alt="github">
   <img src="https://img.shields.io/badge/-Personal Github-000000?style=flat-square&labelColor=000000&logo=github&logoColor=white"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="instagram.com/carol_fonseca" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=instagram.com/carol_fonseca"/></a>
 </p>
 
