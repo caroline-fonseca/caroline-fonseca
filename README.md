@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['C++, JAVA, Python, PHP, Wordpress, JavaScript, HTML, CSS'];
+  linguagens  = ['C++', 'JAVA', 'Python', 'PHP',' Wordpress', 'JavaScript', 'HTML', 'CSS'];
   estudando = ['Typescript, ReactJS']
 }
 ```
