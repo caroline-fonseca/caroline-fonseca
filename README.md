@@ -47,7 +47,7 @@ class AboutMe extends Dev {
 
 ---
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=caroline-fonseca&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radicalk" alt="Carol github status" width="450" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=caroline-fonseca&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=graywhite" alt="Carol github status" width="450" /> 
   
 <!--&nbsp; &nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-fonseca&layout=compact&exclude_repo=exposure-fusion&theme=vue-dark" alt="Top Languages" width="auto"/></p>
