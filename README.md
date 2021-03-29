@@ -23,7 +23,7 @@ class AboutMe extends Dev {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" alt="Javascript"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/vstatic/svg/49/49006.svg?token=exp=1614796668~hmac=9ad527d1ea034e3260d372c51f23cfdd" alt="wordpress"/></code>
+<code><img height="35" src="https://logodownload.org/wp-content/uploads/2014/11/wordpress-logo-1-1.png" alt="wordpress"/></code>
 
 </p>
 
